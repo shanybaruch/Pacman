@@ -1,0 +1,47 @@
+body {
+	background-color: black;
+	text-align: center;
+	color: lightgray;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+	margin: 0 auto;
+	/* border: 1px solid lightgray; */
+}
+
+.title-img {
+	margin: 10px;
+}
+
+.cell {
+	width: 40px;
+	height: 40px;
+	font-size: 1.5em;
+}
+
+.hide {
+	opacity: 0;
+}
+
+.msg-gameover {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.msg-victory {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.pacman {
+	width: 25px;
+}
+
+.ghost {
+	width: 28px;
+}
+
+.score {
+	margin: 0;
+}
