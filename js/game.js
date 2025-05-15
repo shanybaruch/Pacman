@@ -1,7 +1,7 @@
 'use strict'
 
 const WALL = '🟦'
-const FOOD = '◽'
+const FOOD = '•'
 const EMPTY = ' '
 const SUPERFOOD = '⚪'
 const CHERRY = '🍒'
